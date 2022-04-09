@@ -5,4 +5,4 @@ HTML elements followed a logical structure and tags like "aside and section were
 Added alt attributes to images 
 Made changes to the headinf attributes making sure they fall in sequential order.
 Deployed Application: ./Assets/01-html-css-git-homework-demo.png
-URL of Github repository: 
+URL of Github repository: https://shorleyshor.github.io/first-week/
