@@ -133,6 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* removed 3 f's from color */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -140,17 +141,19 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
+/* removed 3 f's from color */
 
 .online-reputation-management {
     margin-bottom: 20px;
-    padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
+    padding: 50px;
 }
+/* removed 3 f's from color and moved padding to the bottom */
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -158,7 +161,7 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #fff;
 }
 
 .search-engine-optimization img {
