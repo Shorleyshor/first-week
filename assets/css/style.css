@@ -133,7 +133,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* removed 3 f's from color */
+
+/* removed 3 f's from color and moved padding to the bottom */
 
 .search-engine-optimization {
     margin-bottom: 20px;
